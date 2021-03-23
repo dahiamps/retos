@@ -1,0 +1,224 @@
+.fondo {
+    background-color: steelblue;
+    height: 1000px;
+    width: 1000px;
+    display: inline-block;
+    position: relative;
+    left: 81px
+}
+
+.padre {
+    display: block;
+}
+
+.padre2 {
+    display: block;
+}
+
+.piel {
+    background-color: lightsalmon;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 777px;
+}
+
+.piel2 {
+    background-color: lightsalmon;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 507px;
+}
+
+.piel3 {
+    background-color: lightsalmon;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 345px;
+}
+
+.piel4 {
+    background-color: lightsalmon;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 291px;
+}
+
+.piel5 {
+    background-color: lightsalmon;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 399px;
+}
+
+.gorra {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 400px;
+}
+
+.gorra2 {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 345px;
+}
+
+.pelo {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 345px;
+}
+
+.pelo2 {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 291px;
+}
+
+.pelo3 {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 399px;
+}
+
+.espacio {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 345px;
+}
+
+.tosc {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 183px;
+}
+
+.troj {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 183px;
+}
+
+.tosc2 {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 130px;
+}
+
+.esp {
+    
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 130px;
+}
+
+.troj2 {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 130px;
+}
+
+.piel6 {
+    background-color: lightsalmon;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 77px;
+}
+
+.tosc3 {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 77px;
+}
+
+.troj3 {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 77px;
+}
+
+.espacio2 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 77px;
+}
+
+.boton {
+    background-color: gold;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 77px;
+}

@@ -1,0 +1,73 @@
+.verde {
+    background-color: greenyellow;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+.oscuro {
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+.azul {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+.l1 {
+    background-color: slategray;
+    height: 100px;
+    width: 481px;
+    display: inline-block;
+}
+
+.l2 {
+    background-color: slateblue;
+    height: 100px;
+    width: 481px;
+    display: inline-block;
+}
+
+.l3 {
+    background-color: slategray;
+    height: 100px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    left: 81px;
+}
+
+.l4 {
+    background-color: slateblue;
+    height: 100px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    left: 81px;
+}
+
+.hijo {
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 50px;
+}
+
+.hijo2 {
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.padre {
+    display: block;
+}
